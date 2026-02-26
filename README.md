@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveensuthar12" alt="praveensuthar12" /></a> </p>
 
-- 🌱 I’m currently learning **HTMl , CSS and JAVASCRIPT**
+🚀 MERN Stack Developer passionate about building full-stack web applications.
+🌱 Continuously improving my skills in HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB.
 
 - 📫 How to reach me **praveensuthar2606@gmail.com**
 
